@@ -1,0 +1,13 @@
+{
+  "catalogs": {},
+  "aliases": {},
+  "templates": {
+    "graalpy": {
+      "file-refs": {
+        "{basename}.java": "./templates/jbang/graalpy-template.java.qute"
+      },
+      "properties": {},
+      "description": "Basic template for Graal Python java file."
+    }
+  }
+}
