@@ -56,7 +56,7 @@ public class hello {
         try (Context context = VirtualGraalPyContext.getContext()) {
             switch (args.length) {
                 case 0:
-                    context.eval("python", "Hello from Python");
+                    context.eval("python", "print('Hello from Python')");
                     break;
                 case 1:
                     context.eval("python", args[0]);
