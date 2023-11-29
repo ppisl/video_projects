@@ -52,7 +52,7 @@ import java.util.function.Predicate;
 
 public class hello {
     public static void main(String[] args) {
-        System.out.println("Running main method from Java");
+        System.out.println("Running main method from Java.");
         try (Context context = VirtualGraalPyContext.getContext()) {
             switch (args.length) {
                 case 0:
