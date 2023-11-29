@@ -50,7 +50,7 @@ import java.util.Set;
 import java.util.TreeMap;
 import java.util.function.Predicate;
 
-public class graalpy2 {
+public class hello {
     public static void main(String[] args) {
         System.out.println("Running main method from Java");
         try (Context context = VirtualGraalPyContext.getContext()) {
