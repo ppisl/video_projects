@@ -4,6 +4,7 @@
     "hello": {
       "script-ref": "./templates/jbang/examples/hello.java",
       "description": "Script that says hello from Python"
+    }
   },
   "templates": {
     "graalpy": {
