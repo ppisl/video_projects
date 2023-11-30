@@ -22,6 +22,7 @@
          "path_to_local_repo": {
             "default": "/path/to/local/maven/repository",
             "description": "Path to your local maven repository"
+         }
        },
       "description": "Basic template for Graal Python java file. Mainly for testing."
     }
