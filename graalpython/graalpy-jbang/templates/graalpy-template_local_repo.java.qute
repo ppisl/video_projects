@@ -5,7 +5,7 @@
 {#if dependencies.isEmpty()}// //DEPS <dependency1> <dependency2>{/if}
 
 //REPOS mc=https://repo1.maven.org/maven2/
-//REPOS local={path__to_local_repo}
+//REPOS local={path_to_local_repo}
 //DEPS org.graalvm.python:python-language
 //DEPS org.graalvm.python:python-resources
 //DEPS org.graalvm.python:python-launcher
