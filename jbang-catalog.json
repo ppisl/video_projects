@@ -19,7 +19,7 @@
         "{basename}.java": "./graalpython/graalpy-jbang/templates/graalpy-template_local_repo.java.qute"
       },
       "properties": {
-         "path__to_local_repo":"Write a path to your local maven repository"
+         "path_to_local_repo": "Write a path to your local maven repository"
        },
       "description": "Basic template for Graal Python java file. Mainly for testing."
     }
